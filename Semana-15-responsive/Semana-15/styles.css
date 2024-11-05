@@ -1,0 +1,41 @@
+#opciones{
+    margin-top: 150px;
+}
+
+.navbar {
+    background-color: #5d656d;
+}
+.navbar-brand, .nav-link {
+    color: white !important;
+}
+.search-box {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.sidebar {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    width: 100%;
+}
+.col-md-3 {
+    margin-top: 8.3%;
+}
+
+.contents {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+#tituloH2{
+    margin-right: 33%;
+}
+
+#random{
+    margin-right: 33%;
+}
